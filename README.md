@@ -1,0 +1,1 @@
+![](https://github.com/ygeng/CustomBottomSheetDialog/raw/master/preview/preview.gif)
